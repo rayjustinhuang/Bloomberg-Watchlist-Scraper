@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Private files
+20210320 Bloomberg_Watchlist_Data.xlsx
+20210320 Watchlist - Bloomberg - Bloomberg Markets.html
+20210320 Watchlist - Bloomberg - Bloomberg Markets_files/
+Bloomberg_Watchlist_Data.csv
